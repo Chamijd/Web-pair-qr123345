@@ -83,7 +83,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴘʀɪɴᴄᴇ-ᴍᴅ",
-thumbnailUrl: "https://files.catbox.moe/vh2848.jpg",
+thumbnailUrl: "https://i.ibb.co/pjqsbyyW/7755.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VaxOi76K5cDJkV9UYR0Q",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -99,7 +99,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴘʀɪɴᴄᴇ-ᴍᴅ",
-thumbnailUrl: "https://files.catbox.moe/vh2848.jpg",
+thumbnailUrl: "https://i.ibb.co/pjqsbyyW/7755.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VaxOi76K5cDJkV9UYR0Q",
 mediaType: 2,
 renderLargerThumbnail: true,
