@@ -4,9 +4,9 @@
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name CHAMA-md",
-      "stop": "pm2 stop CHAMA-md",
-     "restart": "pm2 restart CHAMA-md"
+      "start": "pm2 start index.js --deep-monitoring --attach --name PRINCE-MD",
+      "stop": "pm2 stop PRINCE-MD",
+     "restart": "pm2 restart PRINCE-MD"
     },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",              
